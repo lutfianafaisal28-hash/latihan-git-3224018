@@ -7,11 +7,11 @@ Sumber soal: `LATIHAN TERSTRUKTUR-Materi-5.pdf` · Dokumen resmi pengumpulan: [`
 
 ---
 
-| Identitas | Diisi oleh mahasiswa |
+| Identitas | Mata Kuliah: Implementasi Pengujian Perangkat Lunak — Pertemuan 5 |
 |---|---|
-| Nama | ................................................................ |
-| NIM | ................................................................ |
-| Kelas | ................................................................ |
+| Nama | Lutfiana Faisal Patah |
+| NIM | 3224018 |
+| Kelas | Sistem Informasi |
 
 > Catatan pengerjaan: jawaban disusun berdasarkan spesifikasi pada file Latihan Terstruktur Materi 5. Untuk contoh tanggal yang membutuhkan acuan waktu, tanggal pengujian diasumsikan 16 Oktober 2026. Jika tugas dikumpulkan atau diuji pada tanggal lain, sesuaikan tanggal tersebut.
 
